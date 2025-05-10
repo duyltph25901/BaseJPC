@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979246730252",
+    "project_id": "duylt-app-default",
+    "storage_bucket": "duylt-app-default.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979246730252:android:67d4ebc164f2c58db43229",
+        "android_client_info": {
+          "package_name": "com.duylt.basejetpackcompoase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdMcIjF_xFtHZ-Q2sC2ZfL3iO_ixlOSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979246730252:android:abd4b0b26b664ec8b43229",
+        "android_client_info": {
+          "package_name": "com.virgo.duylt.app.init"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdMcIjF_xFtHZ-Q2sC2ZfL3iO_ixlOSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
